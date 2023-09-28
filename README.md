@@ -1,5 +1,4 @@
-# Virtual-Machines
-# Ticket-Lifecycle<p align="center">
+# Virtual-Machines<p align="center">
 <img src="https://i.imgur.com/MdFO3MX.png" alt="osTicket logo"/>
 </p>
 
